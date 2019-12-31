@@ -1,0 +1,6 @@
+Telegram Desktop AUR package with Noto Emoji patched in.
+Made obselete in version 1.5.8 when upstream added options to customize the
+Emoji set without needing to rebuild.
+
+Archive of the AUR repository, which is obselete and flagged for deletion.
+https://aur.archlinux.org/packages/telegram-desktop-systemqt-notoemoji/
